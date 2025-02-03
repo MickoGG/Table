@@ -1,0 +1,19 @@
+{
+	"rowLen": "4",
+	"colLen": "3",
+    "col1": {
+		"cellValues1": ["jedan", "123.123", "dva", "10.05.2021."],
+		"formats1": ["t", "n", "t", "d"],
+		"numOfDecimals1": ["0", "5", "0", "0"]
+	},
+	"col2": {
+		"cellValues2": ["tri", "456.456", "cetiri", "11.06.2022."],
+		"formats2": ["t", "n", "t", "d"],
+		"numOfDecimals2": ["0", "3", "0", "0"]
+	},
+	"col3": {
+		"cellValues3": ["pet", "789.789", "sest", "12.07.2023."],
+		"formats3": ["t", "n", "t", "d"],
+		"numOfDecimals3": ["0", "1", "0", "0"]
+	}
+}
