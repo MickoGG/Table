@@ -2,7 +2,9 @@
 
 ### Excel-like table in Java using JavaFX library. The set of functionalities covered by this project represents a subset of the functionalities offered by Microsoft Excel.
 
-This is college project and text of the project can be found in **Project.pdf** (Serbian language).  
+This project was built using **Java 8**, but it should work with newer versions as well.
+
+This is a university project, and the text of the project can be found in **`Project.pdf`** (Serbian language).
 
 ## Key features:
 - Creating an empty table
